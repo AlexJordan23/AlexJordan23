@@ -1,3 +1,6 @@
+## 👋 Hi, I'm Alexander Winner  
+🎓 Student @ Developer Akademie  
+💻 Passionate about coding, learning, and building cool projects!
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
